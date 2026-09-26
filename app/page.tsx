@@ -41,6 +41,8 @@ export default function Home() {
 <div className="mt-8 flex gap-6 text-slate-500 text-sm">
   <a href="/privacy" className="hover:text-slate-300">سياسة الخصوصية</a>
   <a href="/about" className="hover:text-slate-300">عن الموقع</a>
+className="hover:text-slate-300">تواصل معنا</a>
+</div>
 </div>
 
     </main>
