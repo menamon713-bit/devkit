@@ -65,7 +65,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-xl font-bold text-white mb-2">7. تواصل معنا</h2>
             <p>
               إذا كان لديك أي أسئلة حول سياسة الخصوصية، يمكنك التواصل معنا عبر البريد الإلكتروني: 
-              <span className="text-blue-400"> your-email@example.com</span>
+              <span className="text-blue-400">krevenkreven18@gmail.com</span>
             </p>
           </section>
 
