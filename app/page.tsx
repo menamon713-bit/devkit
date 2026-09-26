@@ -38,6 +38,11 @@ export default function Home() {
         Made with ❤️ for Arab Developers
       </p>
 
+<div className="mt-8 flex gap-6 text-slate-500 text-sm">
+  <a href="/privacy" className="hover:text-slate-300">سياسة الخصوصية</a>
+  <a href="/about" className="hover:text-slate-300">عن الموقع</a>
+</div>
+
     </main>
   );
 }
