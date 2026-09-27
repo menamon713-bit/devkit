@@ -32,7 +32,12 @@ export default function Home() {
           <div className="font-semibold">Timestamp</div>
         </a>
 
-      </div>
+<a href="/password" className="bg-slate-800 hover:bg-slate-700 p-4 rounded-xl text-center transition">
+  <div className="text-2xl mb-2">🔑</div>
+  <div className="font-semibold">Password</div>
+</a>
+
+  </div>
 
       <p className="text-slate-500 text-sm mt-12">
         Made with ❤️ for Arab Developers
